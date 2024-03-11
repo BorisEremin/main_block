@@ -1,0 +1,15 @@
+C:\Users\freya\OneDrive\Desktop\GB\Main_block\bin\Debug\net6.0\Main_block.exe
+C:\Users\freya\OneDrive\Desktop\GB\Main_block\bin\Debug\net6.0\Main_block.deps.json
+C:\Users\freya\OneDrive\Desktop\GB\Main_block\bin\Debug\net6.0\Main_block.runtimeconfig.json
+C:\Users\freya\OneDrive\Desktop\GB\Main_block\bin\Debug\net6.0\Main_block.dll
+C:\Users\freya\OneDrive\Desktop\GB\Main_block\bin\Debug\net6.0\Main_block.pdb
+C:\Users\freya\OneDrive\Desktop\GB\Main_block\obj\Debug\net6.0\Main_block.csproj.AssemblyReference.cache
+C:\Users\freya\OneDrive\Desktop\GB\Main_block\obj\Debug\net6.0\Main_block.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\freya\OneDrive\Desktop\GB\Main_block\obj\Debug\net6.0\Main_block.AssemblyInfoInputs.cache
+C:\Users\freya\OneDrive\Desktop\GB\Main_block\obj\Debug\net6.0\Main_block.AssemblyInfo.cs
+C:\Users\freya\OneDrive\Desktop\GB\Main_block\obj\Debug\net6.0\Main_block.csproj.CoreCompileInputs.cache
+C:\Users\freya\OneDrive\Desktop\GB\Main_block\obj\Debug\net6.0\Main_block.dll
+C:\Users\freya\OneDrive\Desktop\GB\Main_block\obj\Debug\net6.0\refint\Main_block.dll
+C:\Users\freya\OneDrive\Desktop\GB\Main_block\obj\Debug\net6.0\Main_block.pdb
+C:\Users\freya\OneDrive\Desktop\GB\Main_block\obj\Debug\net6.0\Main_block.genruntimeconfig.cache
+C:\Users\freya\OneDrive\Desktop\GB\Main_block\obj\Debug\net6.0\ref\Main_block.dll
